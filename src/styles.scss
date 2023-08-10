@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(117, 59, 115);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: aqua;
+}
+.main {
+  margin: 100px auto;
+  width: 500px;
+  height: 600px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.registration-title {
+  color: rgb(108, 174, 228);
+  font-size: 40px;
+  border: 3px solid rgb(63, 63, 228);
+  margin: 0 auto;
+  width: 100%;
+  padding: 10 ;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.registration-form {
+  border: 3px solid rgb(63, 63, 228);
+}
+
+.input-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.fullname,
+.email-password {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.gender-box {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.country-box {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+  padding: 10px;
+  label {
+    margin-right: 15px;
+  }
+}
+
+.check-box {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.submit-box {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: center;
+  padding: 10px;
+}

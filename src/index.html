@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/styles.css">
+    <title>Registration Form</title>
+</head>
+<body>
+    <main class="main">
+
+    <h1 class="registration-title">Registration Form</h1>
+    
+    <form class="registration-form">
+        <div class="input-row">
+            <div class="fullname">
+                <label for="first_name">First Name:</label>
+                <input type="text" id="first_name" name="first_name" class="input-field" required>
+            </div>
+            <div class="fullname">
+                <label for="last_name">Last Name:</label>
+                <input type="text" id="last_name" name="last_name" class="input-field" required>
+            </div>
+        </div>
+        
+        <div class="input-row">
+            <div class="email-password">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" class="input-field" required>
+            </div>
+            <div class="email-password">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" class="input-field" required>
+            </div>
+        </div>
+
+        <div class="gender-box"> 
+            <label class="gender-label">Gender:</label>
+            <input type="radio" id="male" name="gender" value="male" class="input-radio">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female" class="input-radio">
+            <label for="female">Female</label>
+            <input type="radio" id="confused" name="gender" value="confused" class="input-radio">
+            <label for="confused">I'm confused</label>
+        </div>
+        
+        <div class="country-box">
+            <label for="country">Where do you live :</label><br>
+            <select id="country" name="country" class="input-field">
+                <option value="usa">USA</option>
+                <option value="latvia">Latvia</option>
+                <option value="uk">UK</option>
+                <option value="space">Space</option>
+            </select>
+        </div>
+        
+        <div class="check-box">
+            <input type="checkbox" id="terms" name="terms" class="input-checkbox" required>
+            <label for="terms">I have agreed to the <a href="#">terms and conditions</a></label>
+        </div>
+        
+        <div class="submit-box">
+        <input type="submit" value="Submit" class="submit-button">
+        </div>
+    </form>
+    </main>
+    <script src="/scripts.js">
+    </script>
+</body>
+</html>
