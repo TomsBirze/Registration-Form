@@ -1,9 +1,301 @@
 {
+  "registrations": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@example.com",
+      "password": "hashed_password",
+      "gender": "male",
+      "country": "usa",
+      "terms_accepted": true
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdwa",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 2
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdwa",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 3
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 4
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 5
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 6
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 7
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 8
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 9
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 10
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 11
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 12
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 13
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 14
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 15
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 16
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 17
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 18
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 19
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 20
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 21
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 22
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 23
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 24
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "awdaw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 25
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "ad",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 26
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "ad",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 27
+    },
+    {
+      "first_name": "Toms",
+      "last_name": "Birze",
+      "email": "birzetoms21@gmail.com",
+      "password": "adw",
+      "gender": "male",
+      "country": "latvia",
+      "terms": "on",
+      "id": 28
+    }
+  ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
